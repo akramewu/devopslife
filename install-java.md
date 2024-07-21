@@ -21,6 +21,7 @@ nano ~/.zshrc
 and paste the below exports:
 
 export JAVA_HOME=$(/usr/libexec/java_home)
+
 export PATH=$JAVA_HOME/bin:$PATH
 
 Press Ctrl + O to save.
