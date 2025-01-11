@@ -23,7 +23,7 @@ This project will guide you through deploying a simple web server (e.g., an Ngin
 ---
 
 ### **2. Setup Local Kubernetes Cluster**
-1. **Start Minikube (or Kind):**
+1. **Start Minikube :**
    ```bash
    minikube start
    ```
