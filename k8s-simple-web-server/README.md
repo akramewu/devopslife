@@ -180,13 +180,9 @@ Minikube supports a local Docker registry:
    kubectl delete -f service.yaml
    ```
 
-2. **Stop Minikube (or Kind):**
+2. **Stop Minikube :**
    ```bash
    minikube stop
-   ```
-   OR for Kind:
-   ```bash
-   kind delete cluster
    ```
 
 ---
